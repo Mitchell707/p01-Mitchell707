@@ -9,7 +9,7 @@ using namespace std;
 int maxNum = 10;
 int gameMode = 0;
 int guess = 0;
-int count = 0;
+int count = 1;
     
 char again;
 
